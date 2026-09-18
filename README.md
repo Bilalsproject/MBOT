@@ -2,7 +2,7 @@
 
 Silkroad Online için mBot ve sBot projelerini, araçlarını ve yardımcı kaynaklarını tek bir yerde toplamayı amaçlayan topluluk odaklı repository.
 
-<p align="center"> <img src="https://img.shields.io/badge/Silkroad%20Online-Bot-blue?style=for-the-badge" alt="Silkroad Online"> <img src="https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge" alt="Stars"> <img src="https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge" alt="Forks"> <img src="https://img.shields.io/github/license/USERNAME/REPOSITORY?style=for-the-badge" alt="License"> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Silkroad%20Online-Bot-blue?style=for-the-badge" alt="Silkroad Online"> <img src="https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge" </p>
 📌 Proje Hakkında
 
 Bu repository, Silkroad Online oyuncuları ve geliştiricileri için mBot / sBot ekosistemiyle ilgili kaynakları düzenli ve erişilebilir bir şekilde sunmayı hedefler.
